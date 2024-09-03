@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NdaTrky
+- 👋 Hi, I’m Nida Türkay.
 - 👀 I’m interested in web development and technology.
 - 🌱 I’m currently learning Full Stack Developer (JavaScript, React).
 - 📫 How to reach me [nturkaayyy@outlook.com].
